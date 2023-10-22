@@ -3080,6 +3080,38 @@
     )
   )
 
+  (symbol (lib_id "Connector_Generic:Conn_01x03") (at 487.68 127 0) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 061360a1-1526-45dd-af52-916bf4e66711)
+    (property "Reference" "J2" (at 485.5972 135.0518 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "PA10" (at 485.5972 132.7404 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (at 487.68 127 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 487.68 127 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 9192e737-2880-4aab-9022-3d0fcdf5882e))
+    (pin "2" (uuid 98efcbc7-a7d1-4424-b59e-f8368dbaf1de))
+    (pin "3" (uuid 4021d0cb-51c4-4dd3-80d0-867a1ea70d0b))
+    (instances
+      (project "MultiBoardMini"
+        (path "/7b4d6a3e-dec4-4756-807e-679f9b6d01df"
+          (reference "J2") (unit 1)
+        )
+      )
+      (project "MultiBoardMini_HW"
+        (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
+          (reference "J4") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:LED") (at 300.99 332.74 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 09495b3b-40bd-4e09-b38f-36e6fd8883ee)
@@ -4682,7 +4714,7 @@
     (property "Value" "~" (at 418.4142 205.613 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm" (at 412.115 204.47 0)
+    (property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_Vertical_Wuerth_434133025816" (at 412.115 204.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 412.115 204.47 0)
@@ -5949,38 +5981,6 @@
       (project "MultiBoardMini_HW"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR09") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Connector_Generic:Conn_01x03") (at 477.52 127 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board no) (dnp no)
-    (uuid e32e415e-d2ff-4ffb-954f-3b724d118100)
-    (property "Reference" "J4" (at 479.6028 118.9482 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "Conn_01x03" (at 479.6028 121.2596 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (at 477.52 127 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 477.52 127 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid f0426581-3b4b-41a4-b82c-c7640e2d6469))
-    (pin "2" (uuid c9bc9754-8084-4340-b259-9a095749e746))
-    (pin "3" (uuid c932bd46-7882-4d41-8a0d-1543612a8120))
-    (instances
-      (project "MultiBoardMini"
-        (path "/7b4d6a3e-dec4-4756-807e-679f9b6d01df"
-          (reference "J4") (unit 1)
-        )
-      )
-      (project "MultiBoardMini_HW"
-        (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-          (reference "J4") (unit 1)
         )
       )
     )
