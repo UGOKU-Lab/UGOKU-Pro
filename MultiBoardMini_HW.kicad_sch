@@ -3060,7 +3060,7 @@
       )
       (project "MultiBoardMini_HW"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-          (reference "PA1") (unit 1)
+          (reference "PA7") (unit 1)
         )
       )
     )
@@ -4227,7 +4227,7 @@
       )
       (project "MultiBoardMini_HW"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-          (reference "PA2") (unit 1)
+          (reference "PA6") (unit 1)
         )
       )
     )
