@@ -227,7 +227,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 1e830665-e22a-458a-8529-ac53a1449a02)
-    (at 7 -0.5 -90)
+    (at 7 0.25 -90)
     (descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x03 2.54mm single row")
     (property "Sheetfile" "MultiBoardMini_HW.kicad_sch")
@@ -293,7 +293,7 @@
 
   (footprint "Button_Switch_THT:SW_PUSH_6mm" (layer "F.Cu")
     (tstamp 218085c9-e615-4beb-93f4-26c49c888bcd)
-    (at 10.5 14)
+    (at 10.5 14.5)
     (descr "https://www.omron.com/ecb/products/pdf/en-b3f.pdf")
     (tags "tact sw push 6mm")
     (property "Sheetfile" "MultiBoardMini_HW.kicad_sch")
@@ -965,7 +965,7 @@
 
   (footprint "Button_Switch_THT:SW_PUSH_6mm" (layer "F.Cu")
     (tstamp 70613505-f384-4069-97e8-67942634a1aa)
-    (at -10.5 14)
+    (at -10.5 14.5)
     (descr "https://www.omron.com/ecb/products/pdf/en-b3f.pdf")
     (tags "tact sw push 6mm")
     (property "Sheetfile" "MultiBoardMini_HW.kicad_sch")
@@ -1115,7 +1115,7 @@
 
   (footprint "Connector_JST:JST_XA_B03B-XASK-1_1x03_P2.50mm_Vertical" (layer "F.Cu")
     (tstamp 81d76587-997d-4b52-af9c-8d8165599492)
-    (at 7.25 -6.25 180)
+    (at 7.25 -5.5 180)
     (descr "JST XA series connector, B03B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator")
     (tags "connector JST XA vertical")
     (property "Sheetfile" "MultiBoardMini_HW.kicad_sch")
@@ -1277,7 +1277,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 88f0d98c-ae57-47c8-b13b-9c2dc2a91bab)
-    (at 5.95 5 180)
+    (at 6.05 5.75 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "MultiBoardMini_HW.kicad_sch")
@@ -1777,7 +1777,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp e226ebc5-be09-409d-ad09-9931bdc8ee43)
-    (at 7 2.04 -90)
+    (at 7 2.79 -90)
     (descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x03 2.54mm single row")
     (property "Sheetfile" "MultiBoardMini_HW.kicad_sch")
@@ -3312,7 +3312,7 @@
 
   (footprint "Jumper:SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm" (layer "B.Cu")
     (tstamp 817f9c42-f341-4bea-be0d-215927fbff76)
-    (at 4.5 5.25)
+    (at 4.5 6)
     (descr "SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "MultiBoardMini_HW.kicad_sch")
@@ -4378,7 +4378,7 @@
 
   (footprint "MultiBoardMini_Libraries:M78AR" (layer "B.Cu")
     (tstamp f1bc8060-3a72-4625-97a6-d62530d13086)
-    (at 5 8.32)
+    (at 5 9)
     (property "Sheetfile" "MultiBoardMini_HW.kicad_sch")
     (property "Sheetname" "")
     (path "/4f3d28fb-6bdb-4ce7-bab0-3ef752e22354")
@@ -4412,6 +4412,8 @@
     )
   )
 
+  (gr_line (start -0.5 -10.75) (end -0.5 -5.75)
+    (stroke (width 0.2) (type default)) (layer "B.Cu") (tstamp 2a549254-78f7-4c4d-af52-7fa57390af9e))
   (gr_line (start -1 29) (end -4 29)
     (stroke (width 0.3) (type default)) (layer "B.SilkS") (tstamp 4aa8a480-ca86-4db5-9227-4d96f83e8c19))
   (gr_line (start 2.5 27.5) (end 2.5 30.5)
@@ -4541,15 +4543,8 @@
     (effects (font (size 1 1) (thickness 0.15)))
   )
 
-  (segment (start 7.54 5.64) (end 6.9 5) (width 1.3) (layer "F.Cu") (net 1) (tstamp 75acc4b0-ccf5-4fcb-820e-f11ef1a2ed52))
-  (segment (start 7.54 8.32) (end 7.54 5.64) (width 1.3) (layer "F.Cu") (net 1) (tstamp a82a7430-9d88-468f-ad4c-088e2b993c09))
-  (segment (start 6.5 5.25) (end 7.54 6.29) (width 1.3) (layer "B.Cu") (net 1) (tstamp 6f7a0778-5bb3-4649-b678-0763aef1be44))
-  (segment (start 7.54 6.29) (end 7.54 8.32) (width 1.3) (layer "B.Cu") (net 1) (tstamp c508fea4-ba52-430f-bfb6-284b1467be05))
   (segment (start 7 -0.5) (end 7 -6) (width 1.3) (layer "F.Cu") (net 2) (tstamp 6dffd0c1-b66d-48d1-aeeb-267a155d669f))
-  (segment (start 5 8.32) (end 5 5) (width 1.3) (layer "F.Cu") (net 2) (tstamp a1badd69-b0d9-47cc-b03a-471108e747f3))
-  (segment (start 5 4.185358) (end 7 2.185358) (width 1.3) (layer "F.Cu") (net 2) (tstamp c6e64248-8a82-4ddb-b95f-660bcf05e63c))
   (segment (start 7 -6) (end 7.25 -6.25) (width 1.3) (layer "F.Cu") (net 2) (tstamp d154e011-e0ea-4482-a928-c4bd640b6026))
-  (segment (start 5 5) (end 5 4.185358) (width 1.3) (layer "F.Cu") (net 2) (tstamp e6a84211-689d-4d5a-8953-1ff3887cd27e))
   (segment (start 7 2.185358) (end 7 -0.5) (width 1.3) (layer "F.Cu") (net 2) (tstamp ef6366fd-d484-450c-8a8e-c48029666f2c))
   (segment (start 19.45 23.225) (end 19.45 22.5) (width 1.3) (layer "B.Cu") (net 2) (tstamp 000e611e-7512-49be-8286-f5efa3692a6c))
   (segment (start 22.694 7.42) (end 22.257 7.857) (width 1.3) (layer "B.Cu") (net 2) (tstamp 05ac9f89-3c7c-497a-a5ce-aaeda68a0215))
@@ -4649,7 +4644,6 @@
   (segment (start -23.356 15.467176) (end -23.356 8.594) (width 1.3) (layer "F.Cu") (net 4) (tstamp ff9b137d-82d0-499a-bf7d-79a82d44a6f9))
   (segment (start -19.025 20.3) (end -18.1875 21.1375) (width 1.3) (layer "B.Cu") (net 4) (tstamp 13756722-6ce6-4dd9-a79d-e2a2ac0bd25c))
   (segment (start -19.025 20.3) (end -21.7 20.3) (width 1.3) (layer "B.Cu") (net 4) (tstamp 241236f3-7945-4f31-8683-8bf497865adc))
-  (segment (start 2 5.25) (end -0.29 7.54) (width 1.3) (layer "B.Cu") (net 4) (tstamp 24d9724a-2e57-46d7-8728-354e58a06955))
   (segment (start 17.55 22.5) (end 17.55 21.775) (width 1.3) (layer "B.Cu") (net 4) (tstamp 4014fb21-e563-413e-92ff-ab6e8d739011))
   (segment (start 1 24.5) (end 2.5 26) (width 1.3) (layer "B.Cu") (net 4) (tstamp 4cebb471-4edb-40d2-bb16-da1a491059e9))
   (segment (start -16.526247 21.476247) (end -0.048753 21.476247) (width 1.3) (layer "B.Cu") (net 4) (tstamp 4e4d6718-1cd0-472b-9ebd-628c294a8692))
@@ -4665,7 +4659,6 @@
   (segment (start 1 22.525) (end -0.29 21.235) (width 1.3) (layer "B.Cu") (net 4) (tstamp b5df03b3-9331-4428-b607-e035b803a318))
   (segment (start 19.825 19.5) (end 22.5 19.5) (width 1.3) (layer "B.Cu") (net 4) (tstamp b711d4fc-5ba7-4b63-aca5-fedb4808f189))
   (segment (start -21.7 20.3) (end -22.5 19.5) (width 1.3) (layer "B.Cu") (net 4) (tstamp c5105d0c-d239-4e86-9814-a7c799714b6b))
-  (segment (start 2.5 5.25) (end 2 5.25) (width 1.3) (layer "B.Cu") (net 4) (tstamp d23105db-2e30-4e8b-ad3c-bf613f2a776f))
   (segment (start -18.1875 21.1375) (end -17.848753 21.476247) (width 1.3) (layer "B.Cu") (net 4) (tstamp d8e8e82d-cad5-42f1-8e68-2d3dce7d0049))
   (segment (start 1 23.5) (end 1 22.525) (width 1.3) (layer "B.Cu") (net 4) (tstamp d8fbb3c0-20cc-4a28-9fb7-f94899d8c98b))
   (segment (start 17.55 21.775) (end 19.825 19.5) (width 1.3) (layer "B.Cu") (net 4) (tstamp daa986a9-cfc9-46a7-bc21-a91910b373df))
@@ -4717,10 +4710,7 @@
   (segment (start -10.35 24.15) (end -8.5 26) (width 1.3) (layer "F.Cu") (net 49) (tstamp dff9feba-52a8-485d-a251-9f9c1db95b3e))
   (segment (start -26.644 0.606) (end -26.644 -0.5) (width 1.3) (layer "F.Cu") (net 49) (tstamp e49c24dd-1b46-4da2-bf17-bceb12a14c5b))
   (segment (start 2.25 8.53) (end 2.46 8.32) (width 0.4) (layer "F.Cu") (net 66) (tstamp d95c582f-59d5-4601-afc4-ecc95a13f354))
-  (segment (start 2.25 18) (end 2.25 8.53) (width 1.3) (layer "B.Cu") (net 66) (tstamp 770d01f6-6deb-4781-a696-ef7e8c355d22))
-  (segment (start 2.25 8.53) (end 2.46 8.32) (width 1.3) (layer "B.Cu") (net 66) (tstamp b3f44940-bde4-4d5d-8698-3e8446179211))
   (segment (start 4.5 2.08) (end 4.46 2.04) (width 1.3) (layer "F.Cu") (net 67) (tstamp 7e9a5acc-97d2-4731-865a-702511e0d081))
-  (segment (start 4.5 5.25) (end 4.5 -0.46) (width 1.3) (layer "B.Cu") (net 67) (tstamp 29f825db-19a7-4425-9906-1d1f485830ca))
   (segment (start 4.5 -0.46) (end 4.46 -0.5) (width 1.3) (layer "B.Cu") (net 67) (tstamp 35053977-3e56-4202-96b6-680d998ae7a2))
 
   (zone (net 2) (net_name "GND") (layers "F&B.Cu") (tstamp af074e85-5660-4e76-b9dc-dc09cde0c881) (hatch edge 0.5)
