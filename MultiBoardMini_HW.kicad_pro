@@ -513,7 +513,7 @@
         "pattern": "+5V"
       },
       {
-        "netclass": "PWR",
+        "netclass": "MOTOR",
         "pattern": "PWR"
       },
       {
