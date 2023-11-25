@@ -498,11 +498,7 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "GND": "PWR",
-      "Net-(J1-Pin_2)": "MOTOR",
-      "PWR": "MOTOR"
-    },
+    "netclass_assignments": null,
     "netclass_patterns": [
       {
         "netclass": "L-PWR",
@@ -538,10 +534,6 @@
       },
       {
         "netclass": "L-PWR",
-        "pattern": "GND"
-      },
-      {
-        "netclass": "L-PWR",
         "pattern": "Net-(IO_3-Pin_2)"
       },
       {
@@ -551,6 +543,10 @@
       {
         "netclass": "L-PWR",
         "pattern": "Net-(ENC/IO_1-Pin_2)"
+      },
+      {
+        "netclass": "L-PWR",
+        "pattern": "GND"
       }
     ]
   },
