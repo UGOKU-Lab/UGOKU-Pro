@@ -1971,10 +1971,6 @@
     (stroke (width 0) (type default))
     (uuid 233668c6-303d-4adc-b8a8-360fdab4dcf8)
   )
-  (wire (pts (xy 426.72 294.64) (xy 426.72 295.91))
-    (stroke (width 0) (type default))
-    (uuid 25fefd42-8bd9-42b4-ad74-bcb9564d8d55)
-  )
   (wire (pts (xy 510.54 154.94) (xy 510.54 151.13))
     (stroke (width 0) (type default))
     (uuid 2749dade-35ed-48fd-a42a-c57c34948b20)
@@ -2659,7 +2655,7 @@
     (stroke (width 0) (type default))
     (uuid e5e83575-9584-4933-9009-5254cf87022e)
   )
-  (wire (pts (xy 426.72 303.53) (xy 426.72 304.8))
+  (wire (pts (xy 426.72 294.64) (xy 426.72 304.8))
     (stroke (width 0) (type default))
     (uuid e7f789a3-152d-457f-868c-0ea4997f6aee)
   )
@@ -3122,7 +3118,7 @@
       )
       (project "MultiBoardMini_HW"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-          (reference "PA7") (unit 1)
+          (reference "L2") (unit 1)
         )
       )
     )
@@ -3600,6 +3596,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf" (at 459.74 238.76 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC" "C529581" (at 467.36 240.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e0035b72-e9ef-4cdc-9e31-4e9b2a31f0b6))
@@ -4297,7 +4296,7 @@
       )
       (project "MultiBoardMini_HW"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-          (reference "PA6") (unit 1)
+          (reference "L3") (unit 1)
         )
       )
     )
@@ -4347,6 +4346,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 254 118.11 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "KCSC" "C1711" (at 254 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a5dceb29-e5da-426c-a793-ce97843ad8ff))
@@ -4604,43 +4606,6 @@
       (project "MultiBoardMini_HW"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "J2") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:D") (at 426.72 299.72 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 7b5bebbf-617d-4b01-b27f-e82ac16763a6)
-    (property "Reference" "D1" (at 429.26 298.45 90)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "D" (at 429.26 300.99 90)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Diode_SMD:D_SOD-123F" (at 426.72 299.72 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 426.72 299.72 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Device" "D" (at 426.72 299.72 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Pins" "1=K 2=A" (at 426.72 299.72 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 69636458-4a8b-4f1a-808c-21f551208271))
-    (pin "2" (uuid 0cd01d47-4635-400d-a299-312ab96991e2))
-    (instances
-      (project "MultiBoardMini"
-        (path "/7b4d6a3e-dec4-4756-807e-679f9b6d01df"
-          (reference "D1") (unit 1)
-        )
-      )
-      (project "MultiBoardMini_HW"
-        (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-          (reference "D2") (unit 1)
         )
       )
     )
@@ -5638,6 +5603,9 @@
     (property "Datasheet" "~" (at 262.89 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "LCSC" "C1711" (at 262.89 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid d9203b10-c61a-4f38-bde4-17cc8dad35a4))
     (pin "2" (uuid a9effdb7-953c-4a47-bb7b-01ac1445140a))
     (instances
@@ -6043,7 +6011,7 @@
       )
       (project "MultiBoardMini_HW"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-          (reference "PWR1") (unit 1)
+          (reference "L1") (unit 1)
         )
       )
     )
