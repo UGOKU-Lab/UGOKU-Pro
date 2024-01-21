@@ -3036,7 +3036,7 @@
           (reference "MJP1") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "MJP2") (unit 1)
         )
@@ -3066,7 +3066,7 @@
           (reference "#PWR047") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR023") (unit 1)
         )
@@ -3098,7 +3098,7 @@
           (reference "J2") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "J4") (unit 1)
         )
@@ -3129,7 +3129,7 @@
           (reference "PA1") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "L2") (unit 1)
         )
@@ -3159,7 +3159,7 @@
           (reference "#PWR01") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR04") (unit 1)
         )
@@ -3189,7 +3189,7 @@
           (reference "#PWR03") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR05") (unit 1)
         )
@@ -3219,7 +3219,7 @@
           (reference "#PWR043") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR033") (unit 1)
         )
@@ -3250,7 +3250,7 @@
           (reference "R5") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "R5") (unit 1)
         )
@@ -3281,7 +3281,7 @@
           (reference "SW2") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "SW2") (unit 1)
         )
@@ -3311,7 +3311,7 @@
           (reference "#PWR042") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR034") (unit 1)
         )
@@ -3341,7 +3341,7 @@
           (reference "#PWR047") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR025") (unit 1)
         )
@@ -3371,7 +3371,7 @@
           (reference "#PWR018") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR018") (unit 1)
         )
@@ -3403,7 +3403,7 @@
           (reference "JP3") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "JP3") (unit 1)
         )
@@ -3433,7 +3433,7 @@
           (reference "#PWR06") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR041") (unit 1)
         )
@@ -3466,7 +3466,7 @@
           (reference "ENC/IO_2") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "ENC/IO_2") (unit 1)
         )
@@ -3496,7 +3496,7 @@
           (reference "#PWR07") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR07") (unit 1)
         )
@@ -3528,7 +3528,7 @@
           (reference "JP1") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "JP1") (unit 1)
         )
@@ -3558,7 +3558,7 @@
           (reference "#PWR037") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR040") (unit 1)
         )
@@ -3588,7 +3588,7 @@
           (reference "#PWR016") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR016") (unit 1)
         )
@@ -3654,7 +3654,7 @@
     (pin "8" (uuid e05a1b2b-aab9-4d9f-8118-06bf46fba6aa))
     (pin "9" (uuid f03c4ccf-7553-4c1e-beb1-c5015cf27aad))
     (instances
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "U7") (unit 1)
         )
@@ -3686,7 +3686,7 @@
           (reference "J1") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "J1") (unit 1)
         )
@@ -3717,7 +3717,7 @@
           (reference "C2") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "C9") (unit 1)
         )
@@ -3747,7 +3747,7 @@
           (reference "#PWR011") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR06") (unit 1)
         )
@@ -3777,7 +3777,7 @@
           (reference "#PWR08") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR08") (unit 1)
         )
@@ -3839,7 +3839,7 @@
     (pin "7" (uuid 7724d1a2-5f92-4090-b2ab-b39ffdabaf9f))
     (pin "8" (uuid 61765a5e-ac1f-4bfd-814c-a3cd6023b5c0))
     (instances
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "U6") (unit 1)
         )
@@ -3870,7 +3870,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "SW1") (unit 1)
         )
@@ -3901,7 +3901,7 @@
           (reference "T1") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "MOTOR1") (unit 1)
         )
@@ -3931,7 +3931,7 @@
           (reference "#PWR02") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR01") (unit 1)
         )
@@ -3961,7 +3961,7 @@
           (reference "#PWR017") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR017") (unit 1)
         )
@@ -3991,7 +3991,7 @@
           (reference "#PWR029") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR027") (unit 1)
         )
@@ -4022,7 +4022,7 @@
           (reference "T1") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "MOTOR2") (unit 1)
         )
@@ -4054,7 +4054,7 @@
           (reference "U3") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "U1") (unit 1)
         )
@@ -4085,7 +4085,7 @@
           (reference "C5") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "C5") (unit 1)
         )
@@ -4181,7 +4181,7 @@
     (pin "4_8" (uuid 3a7d70e0-ab90-4316-ac46-38f53246ea53))
     (pin "4_9" (uuid 92176836-acd9-4236-b5b7-b2917cc71725))
     (instances
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "U2") (unit 1)
         )
@@ -4212,7 +4212,7 @@
           (reference "R2") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "R3") (unit 1)
         )
@@ -4245,7 +4245,7 @@
           (reference "ENC/IO_1") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "ENC/IO_1") (unit 1)
         )
@@ -4276,7 +4276,7 @@
           (reference "C5") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "C12") (unit 1)
         )
@@ -4307,7 +4307,7 @@
           (reference "PA2") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "L3") (unit 1)
         )
@@ -4338,7 +4338,7 @@
           (reference "J3") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "J3") (unit 1)
         )
@@ -4372,7 +4372,7 @@
           (reference "C4") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "C13") (unit 1)
         )
@@ -4403,7 +4403,7 @@
           (reference "C10") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "C1") (unit 1)
         )
@@ -4433,7 +4433,7 @@
           (reference "#PWR038") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR046") (unit 1)
         )
@@ -4464,7 +4464,7 @@
           (reference "R3") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "R7") (unit 1)
         )
@@ -4494,7 +4494,7 @@
           (reference "#PWR08") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR013") (unit 1)
         )
@@ -4524,7 +4524,7 @@
           (reference "#PWR022") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR022") (unit 1)
         )
@@ -4554,7 +4554,7 @@
           (reference "#PWR039") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR02") (unit 1)
         )
@@ -4584,7 +4584,7 @@
           (reference "#PWR011") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR011") (unit 1)
         )
@@ -4616,7 +4616,7 @@
           (reference "J2") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "J2") (unit 1)
         )
@@ -4646,7 +4646,7 @@
     (pin "5" (uuid 33fc2345-6097-4bc9-bf66-16923f202be4))
     (pin "6" (uuid 22a780eb-63fc-43d6-a0ef-2bd31b9d2a0e))
     (instances
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "SW3") (unit 1)
         )
@@ -4677,7 +4677,7 @@
           (reference "SW4") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "SW4") (unit 1)
         )
@@ -4773,7 +4773,7 @@
     (pin "4_8" (uuid 5936ead6-e3da-4a69-a02e-14609f7874c7))
     (pin "4_9" (uuid ef5e24ff-9816-4796-b525-603997aa2098))
     (instances
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "U2") (unit 2)
         )
@@ -4804,7 +4804,7 @@
           (reference "T3") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "T3") (unit 1)
         )
@@ -4841,7 +4841,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "D1") (unit 1)
         )
@@ -4926,7 +4926,7 @@
     (pin "8" (uuid 59b79733-4581-4a42-9e3e-20fec67afc5e))
     (pin "9" (uuid 952a40d5-504d-4356-8a5d-bc13fe196b62))
     (instances
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "U5") (unit 1)
         )
@@ -4957,7 +4957,7 @@
           (reference "MJP1") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "MJP1") (unit 1)
         )
@@ -5042,7 +5042,7 @@
     (pin "8" (uuid 35968d4b-32d7-4bb8-9488-557e48bc0e3f))
     (pin "9" (uuid d24d65c7-1b3b-4d2b-8495-4e685cb748eb))
     (instances
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "U4") (unit 1)
         )
@@ -5073,7 +5073,7 @@
           (reference "R2") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "R2") (unit 1)
         )
@@ -5104,7 +5104,7 @@
           (reference "R4") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "R4") (unit 1)
         )
@@ -5134,7 +5134,7 @@
           (reference "#PWR044") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR038") (unit 1)
         )
@@ -5166,7 +5166,7 @@
           (reference "CAN1") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "CAN1") (unit 1)
         )
@@ -5197,7 +5197,7 @@
           (reference "R10") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "R12") (unit 1)
         )
@@ -5227,7 +5227,7 @@
           (reference "#PWR027") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR029") (unit 1)
         )
@@ -5258,7 +5258,7 @@
           (reference "R6") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "R6") (unit 1)
         )
@@ -5289,7 +5289,7 @@
           (reference "R1") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "R1") (unit 1)
         )
@@ -5319,7 +5319,7 @@
           (reference "#PWR046") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR047") (unit 1)
         )
@@ -5349,7 +5349,7 @@
           (reference "#PWR045") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR037") (unit 1)
         )
@@ -5379,7 +5379,7 @@
           (reference "#PWR037") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR020") (unit 1)
         )
@@ -5410,7 +5410,7 @@
           (reference "R3") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "R13") (unit 1)
         )
@@ -5440,7 +5440,7 @@
           (reference "#PWR08") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR010") (unit 1)
         )
@@ -5473,7 +5473,7 @@
           (reference "IO_1") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "IO_3") (unit 1)
         )
@@ -5503,7 +5503,7 @@
     (pin "5" (uuid c29b9f2b-88b6-473c-8d34-84e9d0c8a673))
     (pin "6" (uuid 6b00c1f6-bc65-4f37-b53c-b347c9db57dc))
     (instances
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "SW5") (unit 1)
         )
@@ -5533,7 +5533,7 @@
           (reference "#PWR029") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR015") (unit 1)
         )
@@ -5561,7 +5561,7 @@
     (pin "3" (uuid 89936ce0-91bf-43e7-b41e-70acd79003b4))
     (pin "4" (uuid 893e21a5-b7e4-490c-b1e9-2703bb611eda))
     (instances
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "J6") (unit 1)
         )
@@ -5593,7 +5593,7 @@
           (reference "JP2") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "JP2") (unit 1)
         )
@@ -5627,7 +5627,7 @@
           (reference "C4") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "C11") (unit 1)
         )
@@ -5657,7 +5657,7 @@
           (reference "#PWR025") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR028") (unit 1)
         )
@@ -5687,7 +5687,7 @@
           (reference "#PWR021") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR021") (unit 1)
         )
@@ -5717,7 +5717,7 @@
           (reference "#PWR08") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR049") (unit 1)
         )
@@ -5748,7 +5748,7 @@
           (reference "C9") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "C10") (unit 1)
         )
@@ -5778,7 +5778,7 @@
           (reference "#PWR014") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR014") (unit 1)
         )
@@ -5809,7 +5809,7 @@
           (reference "C1") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "C2") (unit 1)
         )
@@ -5840,7 +5840,7 @@
           (reference "C4") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "C4") (unit 1)
         )
@@ -5870,7 +5870,7 @@
           (reference "#PWR07") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR09") (unit 1)
         )
@@ -5900,7 +5900,7 @@
           (reference "#PWR032") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR026") (unit 1)
         )
@@ -5930,7 +5930,7 @@
           (reference "#PWR040") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR03") (unit 1)
         )
@@ -5961,7 +5961,7 @@
           (reference "C4") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "C3") (unit 1)
         )
@@ -5991,7 +5991,7 @@
           (reference "#PWR012") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR012") (unit 1)
         )
@@ -6022,7 +6022,7 @@
           (reference "PWR1") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "L1") (unit 1)
         )
@@ -6053,7 +6053,7 @@
           (reference "R9") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "R9") (unit 1)
         )
@@ -6083,7 +6083,7 @@
           (reference "#PWR019") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "#PWR019") (unit 1)
         )
@@ -6115,7 +6115,7 @@
           (reference "JP1") (unit 1)
         )
       )
-      (project "MultiBoardMini_HW"
+      (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
           (reference "JP4") (unit 1)
         )
