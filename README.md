@@ -20,7 +20,8 @@ Androidアプリ[FlexConsole](https://github.com/UGOKU-Lab/FlexConsole_for_Bluet
 # ライセンス
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />この データ は <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.ja">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下に提供されています。
 
-本データおよび本データにより製作した基板は良識の範囲で自由に非営利、営利問わず使用できます。また、改変、再配布も可能です。ただし、再配布の際には本リポジトリのリンクを掲載を希望します。（本プロジェクトの目的に即した改良についてはプルリクエストを歓迎します）。
+本データおよび本データにより製作した基板は良識の範囲で自由に非営利、営利問わず使用できます。また、改変、再配布も可能です。
+ただし、再配布の際には本リポジトリのリンクを掲載を希望します。（本プロジェクトの目的に即した改良についてはプルリクエストを歓迎します）。  
 また、本データにより生じた損害等の一切の責任を負いかねますので、ご了承ください。
 
 
