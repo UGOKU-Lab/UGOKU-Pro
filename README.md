@@ -17,6 +17,9 @@ Androidアプリ[FlexConsole](https://github.com/UGOKU-Lab/FlexConsole_for_Bluet
 | DCモータドライバ | 2× TB67H303HG |
 | CANトランシーバ | MCP2562-E/SN |
 
+# 使用ライブラリ
+[SnapMagic](https://www.snapeda.com/home/) よりダウンロードしたKiCADのライブラリ（CC BY-SA）を使用しています
+
 # ライセンス
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />この データ は <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.ja">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下に提供されています。
 
