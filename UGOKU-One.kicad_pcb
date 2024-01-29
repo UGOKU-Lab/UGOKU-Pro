@@ -961,7 +961,7 @@
     (property "Sheetname" "")
     (path "/3e64e2ad-3fdd-42bf-8fce-ff474ca8a76c")
     (attr through_hole)
-    (fp_text reference "MOTOR1" (at 0 0) (layer "F.SilkS") hide
+    (fp_text reference "MOTOR_B1" (at 0 0) (layer "F.SilkS") hide
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right top))
       (tstamp 38e05c53-e4d7-4337-9cf2-df91197c08e4)
     )
@@ -1443,7 +1443,7 @@
     (property "Sheetname" "")
     (path "/4b804b33-7b25-439b-817f-3c6aab539715")
     (attr through_hole)
-    (fp_text reference "MOTOR2" (at 0 0) (layer "F.SilkS") hide
+    (fp_text reference "MOTOR_A1" (at 0 0) (layer "F.SilkS") hide
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right top))
       (tstamp e5240795-586c-4bdf-83ba-7bce876489e4)
     )
@@ -2727,9 +2727,9 @@
     (pad "7" thru_hole circle (at -6 -2 270) (size 1.388 1.388) (drill 0.88) (layers "*.Cu" "*.Mask")
       (net 32 "Net-(U5-STBY)") (pinfunction "STBY") (pintype "input") (solder_mask_margin 0.102) (tstamp abec2e41-cdf8-42fa-8037-39b2c10f6141))
     (pad "8" thru_hole circle (at -5 2 270) (size 1.388 1.388) (drill 0.88) (layers "*.Cu" "*.Mask")
-      (net 43 "Net-(U2A-PA8)") (pinfunction "IN1") (pintype "input") (solder_mask_margin 0.102) (tstamp 9c0147e8-3c9a-48fe-9886-05d6e8933b60))
+      (net 41 "Net-(U2B-PA5)") (pinfunction "IN1") (pintype "input") (solder_mask_margin 0.102) (tstamp 9c0147e8-3c9a-48fe-9886-05d6e8933b60))
     (pad "9" thru_hole circle (at -4 -2 270) (size 1.388 1.388) (drill 0.88) (layers "*.Cu" "*.Mask")
-      (net 22 "Net-(U2A-PB5)") (pinfunction "IN2") (pintype "input") (solder_mask_margin 0.102) (tstamp f3ae8cc6-6711-4f8b-a425-8130b1c8c4aa))
+      (net 43 "Net-(U2A-PA8)") (pinfunction "IN2") (pintype "input") (solder_mask_margin 0.102) (tstamp f3ae8cc6-6711-4f8b-a425-8130b1c8c4aa))
     (pad "10" thru_hole circle (at -3 2 270) (size 1.388 1.388) (drill 0.88) (layers "*.Cu" "*.Mask")
       (net 38 "Net-(U5-OUT2A)") (pinfunction "OUT2B") (pintype "output") (solder_mask_margin 0.102) (tstamp 6338bbc1-5bbb-4fa4-898d-f48ed639e722))
     (pad "11" thru_hole circle (at -2 -2 270) (size 1.388 1.388) (drill 0.88) (layers "*.Cu" "*.Mask")
@@ -4173,7 +4173,7 @@
     (pad "8" thru_hole circle (at -4.97 1.95 90) (size 1.388 1.388) (drill 0.88) (layers "*.Cu" "*.Mask")
       (net 39 "Net-(U2A-PB4)") (pinfunction "IN1") (pintype "input") (solder_mask_margin 0.102) (tstamp 18f5f18f-4d36-48b0-b5bb-7b49fe63101f))
     (pad "9" thru_hole circle (at -3.97 -2.05 90) (size 1.388 1.388) (drill 0.88) (layers "*.Cu" "*.Mask")
-      (net 41 "Net-(U2B-PA5)") (pinfunction "IN2") (pintype "input") (solder_mask_margin 0.102) (tstamp b657c411-10b6-4160-b014-3f721b712969))
+      (net 22 "Net-(U2A-PB5)") (pinfunction "IN2") (pintype "input") (solder_mask_margin 0.102) (tstamp b657c411-10b6-4160-b014-3f721b712969))
     (pad "10" thru_hole circle (at -2.97 1.95 90) (size 1.388 1.388) (drill 0.88) (layers "*.Cu" "*.Mask")
       (net 36 "Net-(U4-OUT2A)") (pinfunction "OUT2B") (pintype "output") (solder_mask_margin 0.102) (tstamp 683917c0-47ac-4102-b5e9-6a80f5d79778))
     (pad "11" thru_hole circle (at -1.97 -2.05 90) (size 1.388 1.388) (drill 0.88) (layers "*.Cu" "*.Mask")
