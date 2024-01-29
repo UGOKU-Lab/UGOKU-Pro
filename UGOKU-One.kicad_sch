@@ -3908,7 +3908,7 @@
       )
       (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-          (reference "MOTOR_B") (unit 1)
+          (reference "MOTOR_B1") (unit 1)
         )
       )
     )
@@ -4029,7 +4029,7 @@
       )
       (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-          (reference "MOTOR_A") (unit 1)
+          (reference "MOTOR_A1") (unit 1)
         )
       )
     )
