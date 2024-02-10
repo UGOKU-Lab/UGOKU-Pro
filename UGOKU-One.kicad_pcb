@@ -4477,7 +4477,7 @@
   (gr_text "ESP32-WROOM-32E" (at 9.2 -27.8) (layer "B.SilkS") (tstamp 8241c915-d059-4133-b83e-498dc82bd9b3)
     (effects (font (size 1.1 1.1) (thickness 0.18)) (justify mirror))
   )
-  (gr_text "UGOKU One Ver0.4.4 UGOKU Lab 2024-1" (at 30.3 0 90) (layer "B.SilkS") (tstamp 82d68d56-5b01-44e8-afcc-6358458f2338)
+  (gr_text "UGOKU One Ver0.4.4 UGOKU Lab 2024-2" (at 30.3 0 90) (layer "B.SilkS") (tstamp 82d68d56-5b01-44e8-afcc-6358458f2338)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "3V3 5V" (at -9.25 -2) (layer "B.SilkS") (tstamp 8c8e8b39-48f8-493d-ba64-57afbb2ebcb9)
