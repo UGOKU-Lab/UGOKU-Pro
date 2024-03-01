@@ -3570,7 +3570,7 @@
       )
       (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-          (reference "ENC/IO_2") (unit 1)
+          (reference "CN2") (unit 1)
         )
       )
     )
@@ -3973,7 +3973,7 @@
       )
       (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-          (reference "MOTOR_B1") (unit 1)
+          (reference "T2") (unit 1)
         )
       )
     )
@@ -4094,7 +4094,7 @@
       )
       (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-          (reference "MOTOR_A1") (unit 1)
+          (reference "T1") (unit 1)
         )
       )
     )
@@ -4317,7 +4317,7 @@
       )
       (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-          (reference "ENC/IO_1") (unit 1)
+          (reference "CN3") (unit 1)
         )
       )
     )
@@ -5236,7 +5236,7 @@
       )
       (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-          (reference "CAN1") (unit 1)
+          (reference "CN4") (unit 1)
         )
       )
     )
@@ -5543,7 +5543,7 @@
       )
       (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-          (reference "IO_3") (unit 1)
+          (reference "CN1") (unit 1)
         )
       )
     )
