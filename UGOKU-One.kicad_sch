@@ -3552,7 +3552,7 @@
     (property "Value" "Conn_01x04" (at 235.7628 284.8864 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_JST:JST_XA_B04B-XASK-1_1x04_P2.50mm_Vertical" (at 233.68 293.37 0)
+    (property "Footprint" "UGOKU-One_Libraries:har-flexicon_2.54_4pin" (at 233.68 293.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 233.68 293.37 0)
@@ -4299,7 +4299,7 @@
     (property "Value" "Conn_01x04" (at 235.7628 269.6464 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_JST:JST_XA_B04B-XASK-1_1x04_P2.50mm_Vertical" (at 233.68 278.13 0)
+    (property "Footprint" "UGOKU-One_Libraries:har-flexicon_2.54_4pin" (at 233.68 278.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 233.68 278.13 0)
@@ -4317,7 +4317,7 @@
       )
       (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-          (reference "CN3") (unit 1)
+          (reference "CN1") (unit 1)
         )
       )
     )
@@ -5219,7 +5219,7 @@
     (property "Value" "CAN" (at 69.0372 182.0164 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_JST:JST_XA_B03B-XASK-1_1x03_P2.50mm_Vertical" (at 71.12 187.96 0)
+    (property "Footprint" "UGOKU-One_Libraries:har-flexicon_2.54_3pin" (at 71.12 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 71.12 187.96 0)
@@ -5525,7 +5525,7 @@
     (property "Value" "Conn_01x04" (at 235.7628 300.1264 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_JST:JST_XA_B04B-XASK-1_1x04_P2.50mm_Vertical" (at 233.68 308.61 0)
+    (property "Footprint" "UGOKU-One_Libraries:har-flexicon_2.54_4pin" (at 233.68 308.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 233.68 308.61 0)
@@ -5543,7 +5543,7 @@
       )
       (project "UGOKU-One"
         (path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-          (reference "CN1") (unit 1)
+          (reference "CN3") (unit 1)
         )
       )
     )
