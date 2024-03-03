@@ -62,8 +62,6 @@
         "solder_mask_bridge|-9950000|-10355000|5e13f644-54a3-4044-865d-b2879adcac5f|a53dcb09-4d6f-4502-ac89-3c7ba8ccbc9d",
         "solder_mask_bridge|-9950000|-20355000|f6ca8527-d22b-4ffc-a442-36226a15d203|16d62a2e-449a-49c0-92b1-6c8cf964898a",
         "solder_mask_bridge|-9950000|-355000|3817101f-55c8-4f23-a148-f10029e75b3e|95f976ed-7d47-418d-9115-adcd3ee2c444",
-        "solder_mask_bridge|2500000|2750000|e6f5cf21-426b-410b-8943-43daaccb9734|c14d3a8c-6909-4bc6-b040-d6bf865dd376",
-        "solder_mask_bridge|3250000|2750000|e6f5cf21-426b-410b-8943-43daaccb9734|c14d3a8c-6909-4bc6-b040-d6bf865dd376",
         "solder_mask_bridge|5650000|3500000|65bfed07-d380-4a57-82b5-67400dc355c1|a442681b-f46f-4662-a1bf-047504194e64"
       ],
       "meta": {
