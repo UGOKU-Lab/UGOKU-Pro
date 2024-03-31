@@ -4389,7 +4389,7 @@
   (gr_text "M2 ON" (at 26.5 -20.3) (layer "B.SilkS") (tstamp 1005b8c1-1d6e-4a49-86a4-ad72604309d2)
     (effects (font (size 0.7 0.7) (thickness 0.12) bold) (justify mirror))
   )
-  (gr_text "Nucleo-F303K8" (at -10.5 -28) (layer "B.SilkS") (tstamp 24116b76-5fdc-4ef5-b522-c02b34e3752f)
+  (gr_text "Nucleo-F303K8" (at -10.5 18.9) (layer "B.SilkS") (tstamp 24116b76-5fdc-4ef5-b522-c02b34e3752f)
     (effects (font (size 1.1 1.1) (thickness 0.18)) (justify mirror))
   )
   (gr_text "10kΩ" (at -22.6 -16.5 90) (layer "B.SilkS") (tstamp 28b1a62a-ecda-4b65-a3b0-71d1a4638289)
